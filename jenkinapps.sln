@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jenkinapps", "jenkinapps\jenkinapps.csproj", "{B7819489-9438-4921-ADB8-DBC850CF003B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7819489-9438-4921-ADB8-DBC850CF003B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7819489-9438-4921-ADB8-DBC850CF003B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7819489-9438-4921-ADB8-DBC850CF003B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7819489-9438-4921-ADB8-DBC850CF003B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14DBFBA6-5797-46F3-AAC4-51A2D6BDA126}
+	EndGlobalSection
+EndGlobal
